@@ -13,6 +13,9 @@ def add(num1, num2):
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
 
+    # Subtract num2 from num1
+    # Return the result
+    return(num1 - num2)
 
 def multiply(num1, num2):
     """Multiply the two inputs together."""
