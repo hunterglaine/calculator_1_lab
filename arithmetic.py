@@ -26,6 +26,9 @@ def multiply(num1, num2):
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
 
+    # Divide num1 by num2
+    # Return the result
+    return(num1 / num2)
 
 def square(num1):
     """Return the square of the input."""
